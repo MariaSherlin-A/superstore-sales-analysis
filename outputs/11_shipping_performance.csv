@@ -1,0 +1,5 @@
+ship_mode,orders,avg_ship_days,max_ship_days
+Same Day,264,0.04,1
+First Class,787,2.18,4
+Second Class,964,3.24,5
+Standard Class,2994,5.01,7

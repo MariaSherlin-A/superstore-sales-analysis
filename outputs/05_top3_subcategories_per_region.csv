@@ -1,0 +1,13 @@
+region,rank_in_region,sub_category,sales,profit
+Central,1,Chairs,85230.65,6592.72
+Central,2,Phones,72403.28,12323.03
+Central,3,Binders,56923.28,-1043.64
+East,1,Phones,100614.98,12314.69
+East,2,Chairs,95979.31,9369.83
+East,3,Storage,71612.58,8389.37
+South,1,Phones,58304.44,10767.28
+South,2,Machines,53890.96,-1438.89
+South,3,Chairs,45176.45,6612.09
+West,1,Chairs,101781.33,4027.58
+West,2,Phones,98684.35,9110.74
+West,3,Tables,84754.56,1482.61

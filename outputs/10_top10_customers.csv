@@ -1,0 +1,11 @@
+sales_rank,customer_name,segment,orders,sales,profit,share_of_sales_pct
+1,Sean Miller,Home Office,5,25043.05,-1980.74,1.09
+2,Tamara Chand,Corporate,5,19052.22,8981.32,0.83
+3,Raymond Buch,Consumer,6,15117.34,6976.1,0.66
+4,Tom Ashbrook,Home Office,4,14595.62,4703.79,0.64
+5,Adrian Barton,Consumer,10,14473.57,5444.81,0.63
+6,Ken Lonsdale,Consumer,12,14175.23,806.85,0.62
+7,Sanjit Chand,Consumer,9,14142.33,5757.41,0.62
+8,Hunter Lopez,Consumer,6,12873.3,5622.43,0.56
+9,Sanjit Engle,Consumer,11,12209.44,2650.68,0.53
+10,Christopher Conant,Consumer,5,12129.07,2177.05,0.53
