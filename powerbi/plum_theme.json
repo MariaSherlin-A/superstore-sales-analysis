@@ -1,0 +1,18 @@
+{
+  "name": "Superstore Plum",
+  "dataColors": ["#6A1B5A", "#B05C9E", "#E0A3D2", "#3F7CAC", "#95C2E8", "#E07A5F", "#81B29A", "#F2CC8F"],
+  "background": "#FFFFFF",
+  "foreground": "#222222",
+  "tableAccent": "#6A1B5A",
+  "good": "#2E7D32",
+  "neutral": "#9E9E9E",
+  "bad": "#C62828",
+  "maximum": "#6A1B5A",
+  "center": "#E0A3D2",
+  "minimum": "#F7EAF4",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#6A1B5A" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#6A1B5A" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#555555" }
+  }
+}
